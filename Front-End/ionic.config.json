@@ -1,0 +1,7 @@
+{
+  "name": "ffpp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
